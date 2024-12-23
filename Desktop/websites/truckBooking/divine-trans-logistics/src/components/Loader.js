@@ -19,7 +19,6 @@ function Loader() {
     </div>
   );
 }
-
 const loaderStyles = {
   display: 'flex',
   flexDirection: 'column',
